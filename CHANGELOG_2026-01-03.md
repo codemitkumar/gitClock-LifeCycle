@@ -14,5 +14,5 @@ This file logs the changes made on 1/3/2026.
 | 1/3/2026, 1:58:27 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
 | 1/3/2026, 2:28:27 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 1/3/2026, 2:28:27 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
-| 1/3/2026, 2:57:43 PM | src/components/TruInk/templates/Canva.jsx | 224 Additions & 121 Deletions|
-| 1/3/2026, 2:57:43 PM | src/components/TruInk/templates/templateComponent.jsx | 57 Additions & 47 Deletions|
+| 1/3/2026, 2:58:27 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 1/3/2026, 2:58:27 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
