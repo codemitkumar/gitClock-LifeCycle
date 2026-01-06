@@ -212,3 +212,5 @@ This file logs the changes made on 1/6/2026.
 | 1/6/2026, 7:05:32 PM | helpers/meetingQueueWorker.js | 0 Additions & 0 Deletions|
 | 1/6/2026, 7:05:32 PM | helpers/redisInitHelper.js | 0 Additions & 0 Deletions|
 | 1/6/2026, 7:05:32 PM | helpers/truInkEmms.helper.js | 0 Additions & 0 Deletions|
+| 1/6/2026, 7:13:06 PM | package-lock.json | 0 Additions & 7 Deletions|
+| 1/6/2026, 7:13:06 PM | yarn.lock | 0 Additions & 5 Deletions|
