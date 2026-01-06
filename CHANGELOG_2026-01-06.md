@@ -64,3 +64,4 @@ This file logs the changes made on 1/6/2026.
 | 1/6/2026, 1:51:40 PM | helpers/meetingQueueWorker.js | 0 Additions & 0 Deletions|
 | 1/6/2026, 1:51:40 PM | helpers/redisInitHelper.js | 0 Additions & 0 Deletions|
 | 1/6/2026, 1:51:40 PM | helpers/truInkEmms.helper.js | 0 Additions & 0 Deletions|
+| 1/6/2026, 1:58:39 PM | src/components/TruInk/templates/Canva.jsx | 43 Additions & 6 Deletions|
