@@ -38,3 +38,5 @@ This file logs the changes made on 1/7/2026.
 | 1/7/2026, 3:26:05 PM | helpers/truInkEmms.helper.js | 0 Additions & 0 Deletions|
 | 1/7/2026, 3:26:05 PM | redis.js | 0 Additions & 0 Deletions|
 | 1/7/2026, 3:46:10 PM | redis.js | 16 Additions & 16 Deletions|
+| 1/7/2026, 3:51:27 PM | package-lock.json | 0 Additions & 7 Deletions|
+| 1/7/2026, 3:51:27 PM | yarn.lock | 0 Additions & 5 Deletions|
