@@ -26,3 +26,5 @@ This file logs the changes made on 1/13/2026.
 | 1/13/2026, 1:33:47 PM | redis.js | 15 Additions & 15 Deletions|
 | 1/13/2026, 1:49:54 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 1/13/2026, 1:49:54 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 1/13/2026, 1:56:16 PM | src/components/TruInk/templates/Canva.jsx | 123 Additions & 44 Deletions|
+| 1/13/2026, 1:56:16 PM | src/utils/canvaUtils.js | 4 Additions & 15 Deletions|
