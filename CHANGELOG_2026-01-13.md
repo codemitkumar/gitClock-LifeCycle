@@ -16,3 +16,5 @@ This file logs the changes made on 1/13/2026.
 | 1/13/2026, 12:26:16 PM | src/components/TruInk/templates/Canva.jsx | 123 Additions & 44 Deletions|
 | 1/13/2026, 12:49:54 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 1/13/2026, 12:49:54 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 1/13/2026, 12:56:17 PM | src/components/TruInk/templates/Canva.jsx | 123 Additions & 44 Deletions|
+| 1/13/2026, 12:56:17 PM | src/utils/canvaUtils.js | 4 Additions & 15 Deletions|
