@@ -1,0 +1,9 @@
+# Daily Changelog
+
+This file logs the changes made on 1/17/2026.
+
+| Time (UTC)             | Files Modified                    | Changes (Addition/Deletion) |
+|------------------------|-----------------------------------|-----------------------------|
+| 1/17/2026, 1:19:55 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions |
+| 1/17/2026, 1:19:55 PM | "src/Components/Manager Signage/ContentAI.jsx" | undefined Additions & undefined Deletions |
+| 1/17/2026, 1:19:55 PM | "src/Components/Manager Signage/Helper/FileDownloadHelper.js" | undefined Additions & undefined Deletions |
