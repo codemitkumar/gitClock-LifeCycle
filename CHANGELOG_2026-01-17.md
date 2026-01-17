@@ -31,3 +31,6 @@ This file logs the changes made on 1/17/2026.
 | 1/17/2026, 9:15:05 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
 | 1/17/2026, 9:27:20 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
 | 1/17/2026, 9:45:06 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
+| 1/18/2026, 1:45:32 AM | AERIS_UI/src/App.jsx | 8 Additions & 30 Deletions|
+| 1/18/2026, 1:45:32 AM | AERIS_UI/src/index.css | 7 Additions & 66 Deletions|
+| 1/18/2026, 1:45:32 AM | AERIS_UI/src/Screens/ | 0 Additions & 0 Deletions|
