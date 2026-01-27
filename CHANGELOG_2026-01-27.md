@@ -38,3 +38,7 @@ This file logs the changes made on 1/27/2026.
 | 1/27/2026, 7:39:55 PM | src/Components/MonumentInfoCard.jsx | 12 Additions & 5 Deletions|
 | 1/27/2026, 7:39:55 PM | src/Context/User.json | 595 Additions & 8 Deletions|
 | 1/27/2026, 7:39:55 PM | src/Pages/GoogleMapsScreen.jsx | 29 Additions & 14 Deletions|
+| 1/27/2026, 9:07:26 PM | config/config.json | 1 Additions & 1 Deletions|
+| 1/27/2026, 9:07:26 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 1/27/2026, 9:07:26 PM | package-lock.json | 0 Additions & 49 Deletions|
+| 1/27/2026, 9:07:26 PM | server.js | 1 Additions & 1 Deletions|
