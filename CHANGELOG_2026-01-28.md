@@ -38,3 +38,6 @@ This file logs the changes made on 1/28/2026.
 | 1/28/2026, 2:04:40 PM | src/Components/MonumentInfoCard.jsx | 12 Additions & 5 Deletions|
 | 1/28/2026, 2:04:40 PM | src/Context/User.json | 902 Additions & 8 Deletions|
 | 1/28/2026, 2:04:40 PM | src/Pages/GoogleMapsScreen.jsx | 29 Additions & 14 Deletions|
+| 1/28/2026, 2:22:03 PM | src/Components/MonumentInfoCard.jsx | 12 Additions & 5 Deletions|
+| 1/28/2026, 2:22:03 PM | src/Context/User.json | 902 Additions & 8 Deletions|
+| 1/28/2026, 2:22:03 PM | src/Pages/GoogleMapsScreen.jsx | 29 Additions & 14 Deletions|
