@@ -7,3 +7,17 @@ This file logs the changes made on 1/30/2026.
 | 1/30/2026, 11:44:57 AM | vite.config.js | 1 Additions & 0 Deletions |
 | 1/30/2026, 12:14:57 PM | vite.config.js | 1 Additions & 0 Deletions|
 | 1/30/2026, 12:44:57 PM | vite.config.js | 1 Additions & 0 Deletions|
+| 1/30/2026, 1:14:58 PM | src/App.jsx | 1 Additions & 1 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/ActionButton.jsx | 5 Additions & 6 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/BlueHighLightButton.jsx | 1 Additions & 1 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/ElhiBrandingText.jsx | 2 Additions & 2 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/ElhiHeader.jsx | 3 Additions & 3 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/HeroCard.jsx | 11 Additions & 16 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/LoginInputFields.jsx | 2 Additions & 2 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/MonumentInfoCard.jsx | 31 Additions & 6 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/OverlayRenderer.jsx | 0 Additions & 1 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Components/TextInputFields.jsx | 14 Additions & 2 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Pages/Kiosk.jsx | 7 Additions & 1 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Pages/Login.jsx | 2 Additions & 2 Deletions|
+| 1/30/2026, 1:14:58 PM | src/Pages/ScreenRenderer.jsx | 8 Additions & 13 Deletions|
+| 1/30/2026, 1:14:58 PM | vite.config.js | 1 Additions & 0 Deletions|
