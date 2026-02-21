@@ -24,6 +24,8 @@ This file logs the changes made on 2/21/2026.
 | 2/21/2026, 2:00:14 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 2/21/2026, 2:00:14 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
 | 2/21/2026, 2:00:14 PM | server.js | 4 Additions & 0 Deletions|
-| 2/21/2026, 2:29:34 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
-| 2/21/2026, 2:29:34 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
-| 2/21/2026, 2:29:34 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 2/21/2026, 2:30:14 PM | api/controllers/auth.controller.js | 39 Additions & 37 Deletions|
+| 2/21/2026, 2:30:14 PM | dal.js | 2 Additions & 1 Deletions|
+| 2/21/2026, 2:30:14 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 2/21/2026, 2:30:14 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
+| 2/21/2026, 2:30:14 PM | server.js | 4 Additions & 0 Deletions|
