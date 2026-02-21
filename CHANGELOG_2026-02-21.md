@@ -14,3 +14,6 @@ This file logs the changes made on 2/21/2026.
 | 2/21/2026, 1:00:13 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 2/21/2026, 1:00:13 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
 | 2/21/2026, 1:00:13 PM | server.js | 4 Additions & 0 Deletions|
+| 2/21/2026, 1:28:53 PM | helpers/meetingRedis.helper.js | 1 Additions & 0 Deletions|
+| 2/21/2026, 1:28:53 PM | helpers/polling.helper.js | 21 Additions & 20 Deletions|
+| 2/21/2026, 1:28:53 PM | managers/meeting.manager.js | 1 Additions & 1 Deletions|
