@@ -24,6 +24,6 @@ This file logs the changes made on 2/21/2026.
 | 2/21/2026, 2:00:14 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 2/21/2026, 2:00:14 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
 | 2/21/2026, 2:00:14 PM | server.js | 4 Additions & 0 Deletions|
-| 2/21/2026, 2:28:53 PM | helpers/meetingRedis.helper.js | 23 Additions & 15 Deletions|
-| 2/21/2026, 2:28:53 PM | helpers/polling.helper.js | 29 Additions & 30 Deletions|
-| 2/21/2026, 2:28:53 PM | managers/meeting.manager.js | 5 Additions & 5 Deletions|
+| 2/21/2026, 2:29:34 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
+| 2/21/2026, 2:29:34 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
+| 2/21/2026, 2:29:34 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
