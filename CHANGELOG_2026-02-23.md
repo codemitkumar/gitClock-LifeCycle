@@ -12,8 +12,4 @@ This file logs the changes made on 2/23/2026.
 | 2/23/2026, 2:41:05 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
 | 2/23/2026, 3:11:05 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
 | 2/23/2026, 3:41:04 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
-| 2/23/2026, 4:10:23 PM | helpers/polling.helper.js | 94 Additions & 48 Deletions|
-| 2/23/2026, 4:10:23 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 2/23/2026, 4:10:23 PM | managers/layout.manager.js | 23 Additions & 18 Deletions|
-| 2/23/2026, 4:10:23 PM | managers/meeting.manager.js | 8 Additions & 7 Deletions|
-| 2/23/2026, 4:10:23 PM | managers/playlist.manager.js | 5 Additions & 2 Deletions|
+| 2/23/2026, 4:11:04 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
