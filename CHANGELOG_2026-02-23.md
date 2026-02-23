@@ -9,5 +9,4 @@ This file logs the changes made on 2/23/2026.
 | 2/23/2026, 2:40:06 PM | logs/audit.json | 10 Additions & 10 Deletions |
 | 2/23/2026, 2:40:06 PM | logs/elhiaudit.json | 10 Additions & 10 Deletions |
 | 2/23/2026, 2:40:06 PM | server.js | 4 Additions & 0 Deletions |
-| 2/23/2026, 2:40:23 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 2/23/2026, 2:40:23 PM | managers/meeting.manager.js | 8 Additions & 7 Deletions|
+| 2/23/2026, 2:41:05 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
