@@ -76,3 +76,5 @@ This file logs the changes made on 2/24/2026.
 | 2/24/2026, 5:17:35 PM | server.js | 4 Additions & 0 Deletions|
 | 2/24/2026, 5:41:15 PM | helpers/polling.helper.js | 120 Additions & 47 Deletions|
 | 2/24/2026, 5:41:15 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 2/24/2026, 5:46:23 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
+| 2/24/2026, 5:46:23 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
