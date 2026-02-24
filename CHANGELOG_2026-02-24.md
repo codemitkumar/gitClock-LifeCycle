@@ -90,5 +90,8 @@ This file logs the changes made on 2/24/2026.
 | 2/24/2026, 6:17:36 PM | server.js | 4 Additions & 0 Deletions|
 | 2/24/2026, 6:41:16 PM | helpers/polling.helper.js | 120 Additions & 47 Deletions|
 | 2/24/2026, 6:41:16 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 2/24/2026, 6:46:23 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
-| 2/24/2026, 6:46:23 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 2/24/2026, 6:47:35 PM | api/controllers/auth.controller.js | 39 Additions & 37 Deletions|
+| 2/24/2026, 6:47:35 PM | dal.js | 2 Additions & 1 Deletions|
+| 2/24/2026, 6:47:35 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 2/24/2026, 6:47:35 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 2/24/2026, 6:47:35 PM | server.js | 4 Additions & 0 Deletions|
