@@ -25,3 +25,8 @@ This file logs the changes made on 2/25/2026.
 | 2/25/2026, 4:04:46 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 2/25/2026, 4:34:46 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 2/25/2026, 4:46:54 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 2/25/2026, 4:52:15 PM | api/controllers/auth.controller.js | 39 Additions & 37 Deletions|
+| 2/25/2026, 4:52:15 PM | dal.js | 2 Additions & 1 Deletions|
+| 2/25/2026, 4:52:15 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 2/25/2026, 4:52:15 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 2/25/2026, 4:52:15 PM | server.js | 4 Additions & 0 Deletions|
