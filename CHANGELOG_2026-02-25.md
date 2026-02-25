@@ -51,3 +51,5 @@ This file logs the changes made on 2/25/2026.
 | 2/25/2026, 6:22:15 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 2/25/2026, 6:22:15 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
 | 2/25/2026, 6:22:15 PM | server.js | 4 Additions & 0 Deletions|
+| 2/25/2026, 6:34:46 PM | helpers/polling.helper.js | 2 Additions & 0 Deletions|
+| 2/25/2026, 6:34:46 PM | logs/audit.json | 5 Additions & 5 Deletions|
