@@ -15,3 +15,8 @@ This file logs the changes made on 3/3/2026.
 | 3/3/2026, 12:13:26 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
 | 3/3/2026, 12:45:46 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
 | 3/3/2026, 12:45:46 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 3/3/2026, 1:15:37 PM | api/controllers/auth.controller.js | 39 Additions & 37 Deletions|
+| 3/3/2026, 1:15:37 PM | dal.js | 2 Additions & 1 Deletions|
+| 3/3/2026, 1:15:37 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 3/3/2026, 1:15:37 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 3/3/2026, 1:15:37 PM | server.js | 4 Additions & 0 Deletions|
