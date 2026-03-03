@@ -27,3 +27,6 @@ This file logs the changes made on 3/3/2026.
 | 3/3/2026, 3:45:39 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
 | 3/3/2026, 4:15:39 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
 | 3/3/2026, 4:15:39 PM | "src/Components/Manager Signage/ManagerSignage.js" | undefined Additions & undefined Deletions|
+| 3/3/2026, 4:45:37 PM | helpers/meetingRedis.helper.js | 0 Additions & 6 Deletions|
+| 3/3/2026, 4:45:37 PM | helpers/polling.helper.js | 1 Additions & 34 Deletions|
+| 3/3/2026, 4:45:37 PM | managers/meeting.manager.js | 0 Additions & 7 Deletions|
