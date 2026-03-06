@@ -6,3 +6,4 @@ This file logs the changes made on 3/6/2026.
 |------------------------|-----------------------------------|-----------------------------|
 | 3/6/2026, 2:39:24 PM | helpers/polling.helper.js | 3 Additions & 0 Deletions |
 | 3/6/2026, 3:09:24 PM | helpers/polling.helper.js | 3 Additions & 0 Deletions|
+| 3/6/2026, 3:39:24 PM | helpers/polling.helper.js | 3 Additions & 0 Deletions|
