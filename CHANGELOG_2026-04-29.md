@@ -24,4 +24,4 @@ This file logs the changes made on 4/29/2026.
 | 4/29/2026, 2:57:16 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
 | 4/29/2026, 2:57:16 PM | services/emms.service.js | 2 Additions & 2 Deletions|
 | 4/29/2026, 2:57:16 PM | services/truink.service.js | 6 Additions & 3 Deletions|
-| 4/29/2026, 3:03:04 PM | src/components/contentAi/KioskStudioDashboard.js | 35 Additions & 20 Deletions|
+| 4/29/2026, 3:03:07 PM | src/components/contentAi/KioskStudioDashboard.js | 35 Additions & 20 Deletions|
