@@ -19,6 +19,4 @@ This file logs the changes made on 4/30/2026.
 | 4/30/2026, 11:23:17 AM | services/emms.service.js | 2 Additions & 2 Deletions|
 | 4/30/2026, 11:23:17 AM | services/truink.service.js | 6 Additions & 3 Deletions|
 | 4/30/2026, 11:28:53 AM | logs/audit.json | 10 Additions & 10 Deletions|
-| 4/30/2026, 11:31:58 AM | src/components/KioskEditor/KioskEditor.js | 166 Additions & 5 Deletions|
-| 4/30/2026, 11:31:58 AM | src/components/KioskEditor/KioskPreview.js | 81 Additions & 2 Deletions|
-| 4/30/2026, 11:31:58 AM | src/components/contentAi/KioskStudioDashboard.js | 35 Additions & 20 Deletions|
+| 4/30/2026, 11:32:51 AM | logs/audit.json | 10 Additions & 10 Deletions|
