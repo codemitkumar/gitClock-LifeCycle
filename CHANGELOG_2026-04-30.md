@@ -51,4 +51,4 @@ This file logs the changes made on 4/30/2026.
 | 4/30/2026, 12:20:33 PM | src/components/KioskEditor/KioskPreview.js | 81 Additions & 2 Deletions|
 | 4/30/2026, 12:20:33 PM | src/components/contentAi/KioskStudioDashboard.js | 73 Additions & 55 Deletions|
 | 4/30/2026, 12:20:33 PM | src/components/contentAi/KioskTemplatesDashboard.js | 53 Additions & 12 Deletions|
-| 4/30/2026, 4:48:32 PM | helpers/office.js | 1 Additions & 1 Deletions|
+| 4/30/2026, 4:48:37 PM | helpers/office.js | 1 Additions & 1 Deletions|
