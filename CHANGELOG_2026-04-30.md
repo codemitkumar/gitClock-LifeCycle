@@ -39,3 +39,7 @@ This file logs the changes made on 4/30/2026.
 | 4/30/2026, 12:03:17 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
 | 4/30/2026, 12:03:17 PM | services/emms.service.js | 2 Additions & 2 Deletions|
 | 4/30/2026, 12:03:17 PM | services/truink.service.js | 6 Additions & 3 Deletions|
+| 4/30/2026, 12:06:17 PM | api/controllers/kiosk.controller.js | 19 Additions & 0 Deletions|
+| 4/30/2026, 12:06:17 PM | api/swagger/swagger.yaml | 37 Additions & 0 Deletions|
+| 4/30/2026, 12:06:17 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 4/30/2026, 12:06:17 PM | managers/kiosk.manager.js | 19 Additions & 0 Deletions|
