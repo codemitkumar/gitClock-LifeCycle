@@ -47,3 +47,7 @@ This file logs the changes made on 4/30/2026.
 | 4/30/2026, 12:16:32 PM | src/components/KioskEditor/KioskPreview.js | 81 Additions & 2 Deletions|
 | 4/30/2026, 12:16:32 PM | src/components/contentAi/KioskStudioDashboard.js | 73 Additions & 55 Deletions|
 | 4/30/2026, 12:16:32 PM | src/components/contentAi/KioskTemplatesDashboard.js | 53 Additions & 12 Deletions|
+| 4/30/2026, 12:18:10 PM | api/controllers/kiosk.controller.js | 19 Additions & 0 Deletions|
+| 4/30/2026, 12:18:10 PM | api/swagger/swagger.yaml | 37 Additions & 0 Deletions|
+| 4/30/2026, 12:18:10 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 4/30/2026, 12:18:10 PM | managers/kiosk.manager.js | 17 Additions & 0 Deletions|
