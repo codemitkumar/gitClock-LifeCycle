@@ -27,3 +27,6 @@ This file logs the changes made on 5/6/2026.
 | 5/6/2026, 4:58:43 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 5/6/2026, 5:18:50 PM | src/components/KioskEditor/KioskEditor.js | 509 Additions & 21 Deletions|
 | 5/6/2026, 5:18:50 PM | src/components/KioskEditor/KioskPreview.js | 381 Additions & 6 Deletions|
+| 5/6/2026, 5:24:53 PM | .env | 1 Additions & 1 Deletions|
+| 5/6/2026, 5:24:53 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/6/2026, 5:24:53 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
