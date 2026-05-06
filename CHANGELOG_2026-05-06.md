@@ -6,3 +6,5 @@ This file logs the changes made on 5/6/2026.
 |------------------------|-----------------------------------|-----------------------------|
 | 5/6/2026, 11:26:08 AM | src/components/KioskEditor/KioskEditor.js | 385 Additions & 20 Deletions |
 | 5/6/2026, 11:26:08 AM | src/components/KioskEditor/KioskPreview.js | 211 Additions & 3 Deletions |
+| 5/6/2026, 11:37:58 AM | src/components/KioskEditor/KioskEditor.js | 385 Additions & 20 Deletions|
+| 5/6/2026, 11:37:58 AM | src/components/KioskEditor/KioskPreview.js | 211 Additions & 3 Deletions|
