@@ -94,3 +94,6 @@ This file logs the changes made on 5/7/2026.
 | 5/7/2026, 5:58:37 PM | api/controllers/kiosk.controller.js | 4 Additions & 0 Deletions|
 | 5/7/2026, 5:58:37 PM | api/swagger/swagger.yaml | 17 Additions & 0 Deletions|
 | 5/7/2026, 5:58:37 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/7/2026, 6:16:03 PM | src/components/KioskEditor/KioskEditor.js | 524 Additions & 23 Deletions|
+| 5/7/2026, 6:16:03 PM | src/components/KioskEditor/KioskPreview.js | 396 Additions & 11 Deletions|
+| 5/7/2026, 6:16:03 PM | src/components/contentAi/KioskStudioDashboard.js | 116 Additions & 24 Deletions|
