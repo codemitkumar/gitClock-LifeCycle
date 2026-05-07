@@ -67,3 +67,7 @@ This file logs the changes made on 5/7/2026.
 | 5/7/2026, 3:39:40 PM | sequelize.js | 1 Additions & 0 Deletions|
 | 5/7/2026, 3:46:03 PM | src/components/KioskEditor/KioskEditor.js | 511 Additions & 21 Deletions|
 | 5/7/2026, 3:46:03 PM | src/components/KioskEditor/KioskPreview.js | 389 Additions & 10 Deletions|
+| 5/7/2026, 3:58:28 PM | .env | 1 Additions & 1 Deletions|
+| 5/7/2026, 3:58:28 PM | logs/audit.json | 15 Additions & 15 Deletions|
+| 5/7/2026, 3:58:28 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 5/7/2026, 3:58:28 PM | sequelize.js | 1 Additions & 0 Deletions|
