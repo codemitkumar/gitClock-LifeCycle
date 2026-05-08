@@ -167,3 +167,5 @@ This file logs the changes made on 5/8/2026.
 | 5/8/2026, 6:16:47 PM | package.json | 1 Additions & 0 Deletions|
 | 5/8/2026, 6:16:47 PM | sequelize.js | 1 Additions & 0 Deletions|
 | 5/8/2026, 6:16:47 PM | server.js | 2 Additions & 0 Deletions|
+| 5/8/2026, 6:21:44 PM | src/components/KioskEditor/KioskEditor.js | 404 Additions & 3315 Deletions|
+| 5/8/2026, 6:21:44 PM | src/components/KioskEditor/Utils/ | 0 Additions & 0 Deletions|
