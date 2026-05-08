@@ -158,3 +158,5 @@ This file logs the changes made on 5/8/2026.
 | 5/8/2026, 5:46:47 PM | server.js | 2 Additions & 0 Deletions|
 | 5/8/2026, 5:57:53 PM | src/components/KioskEditor/KioskEditor.js | 13 Additions & 951 Deletions|
 | 5/8/2026, 5:57:53 PM | src/components/KioskEditor/Utils/ | 0 Additions & 0 Deletions|
+| 5/8/2026, 6:06:03 PM | src/components/KioskEditor/KioskEditor.js | 19 Additions & 1583 Deletions|
+| 5/8/2026, 6:06:03 PM | src/components/KioskEditor/Utils/ | 0 Additions & 0 Deletions|
