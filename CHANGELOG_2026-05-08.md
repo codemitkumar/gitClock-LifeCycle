@@ -199,3 +199,4 @@ This file logs the changes made on 5/8/2026.
 | 5/8/2026, 7:52:53 PM | server.js | 2 Additions & 0 Deletions|
 | 5/8/2026, 7:57:54 PM | src/components/KioskEditor/KioskEditor.js | 13 Additions & 3 Deletions|
 | 5/8/2026, 8:22:53 PM | dal.js | 10 Additions & 31 Deletions|
+| 5/8/2026, 8:27:53 PM | src/components/KioskEditor/KioskEditor.js | 13 Additions & 3 Deletions|
