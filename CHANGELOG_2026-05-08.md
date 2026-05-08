@@ -182,3 +182,4 @@ This file logs the changes made on 5/8/2026.
 | 5/8/2026, 6:46:47 PM | sequelize.js | 1 Additions & 0 Deletions|
 | 5/8/2026, 6:46:47 PM | server.js | 2 Additions & 0 Deletions|
 | 5/8/2026, 6:57:53 PM | src/components/KioskEditor/KioskEditor.js | 13 Additions & 3 Deletions|
+| 5/8/2026, 7:16:36 PM | dal.js | 1 Additions & 0 Deletions|
