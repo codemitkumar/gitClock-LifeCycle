@@ -17,3 +17,7 @@ This file logs the changes made on 5/11/2026.
 | 5/11/2026, 2:28:36 PM | dal.js | 39 Additions & 38 Deletions|
 | 5/11/2026, 2:28:36 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 5/11/2026, 2:28:36 PM | managers/kiosk.manager.js | 53 Additions & 31 Deletions|
+| 5/11/2026, 2:46:13 PM | api/controllers/kiosk.controller.js | 5 Additions & 3 Deletions|
+| 5/11/2026, 2:46:13 PM | dal.js | 39 Additions & 38 Deletions|
+| 5/11/2026, 2:46:13 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/11/2026, 2:46:13 PM | managers/kiosk.manager.js | 53 Additions & 31 Deletions|
