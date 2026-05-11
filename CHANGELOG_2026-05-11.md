@@ -25,3 +25,7 @@ This file logs the changes made on 5/11/2026.
 | 5/11/2026, 2:46:17 PM | src/components/KioskEditor/Utils/Makers.js | 9 Additions & 0 Deletions|
 | 5/11/2026, 2:46:17 PM | src/components/KioskEditor/Utils/exports.js | 2 Additions & 2 Deletions|
 | 5/11/2026, 2:46:17 PM | src/components/KioskEditor/Utils/Model3DViewer.js | 0 Additions & 0 Deletions|
+| 5/11/2026, 3:11:27 PM | api/controllers/kiosk.controller.js | 5 Additions & 3 Deletions|
+| 5/11/2026, 3:11:27 PM | dal.js | 39 Additions & 38 Deletions|
+| 5/11/2026, 3:11:27 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/11/2026, 3:11:27 PM | managers/kiosk.manager.js | 53 Additions & 31 Deletions|
