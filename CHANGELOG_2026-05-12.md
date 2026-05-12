@@ -15,3 +15,7 @@ This file logs the changes made on 5/12/2026.
 | 5/12/2026, 6:06:06 PM | helpers/truInkEmms.helper.js | 2 Additions & 2 Deletions|
 | 5/12/2026, 6:06:06 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 5/12/2026, 6:06:06 PM | redis.js | 14 Additions & 7 Deletions|
+| 5/12/2026, 6:27:28 PM | config/config.json | 1 Additions & 1 Deletions|
+| 5/12/2026, 6:27:28 PM | helpers/truInkEmms.helper.js | 2 Additions & 2 Deletions|
+| 5/12/2026, 6:27:28 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/12/2026, 6:27:28 PM | redis.js | 14 Additions & 7 Deletions|
