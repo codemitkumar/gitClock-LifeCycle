@@ -5,3 +5,5 @@ This file logs the changes made on 5/12/2026.
 | Time (UTC)             | Files Modified                    | Changes (Addition/Deletion) |
 |------------------------|-----------------------------------|-----------------------------|
 | 5/12/2026, 5:06:07 PM | logs/audit.json | 5 Additions & 5 Deletions |
+| 5/12/2026, 5:26:12 PM | config/config.json | 1 Additions & 1 Deletions|
+| 5/12/2026, 5:26:12 PM | logs/audit.json | 5 Additions & 5 Deletions|
