@@ -64,4 +64,5 @@ This file logs the changes made on 5/13/2026.
 | 5/13/2026, 3:05:39 PM | src/components/KioskEditor/Utils/LeafRenderer.js | 29 Additions & 4 Deletions|
 | 5/13/2026, 3:05:39 PM | src/components/KioskEditor/Utils/Makers.js | 60 Additions & 1 Deletions|
 | 5/13/2026, 3:05:39 PM | src/components/KioskEditor/Utils/exports.js | 2 Additions & 2 Deletions|
-| 5/13/2026, 3:37:52 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/13/2026, 3:38:06 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/13/2026, 3:38:06 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
