@@ -76,4 +76,5 @@ This file logs the changes made on 5/13/2026.
 | 5/13/2026, 4:23:52 PM | src/components/KioskEditor/Utils/exports.js | 2 Additions & 2 Deletions|
 | 5/13/2026, 4:38:05 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 5/13/2026, 4:38:05 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
-| 5/13/2026, 5:07:52 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/13/2026, 5:08:05 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 5/13/2026, 5:08:05 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
