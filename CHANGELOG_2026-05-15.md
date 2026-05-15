@@ -19,3 +19,6 @@ This file logs the changes made on 5/15/2026.
 | 5/15/2026, 5:26:11 PM | AERIS_ENGINE/emergencyInjector/injection_manager.py | 78 Additions & 7 Deletions|
 | 5/15/2026, 5:26:11 PM | AERIS_ENGINE/main.py | 7 Additions & 0 Deletions|
 | 5/15/2026, 5:26:11 PM | AERIS_ENGINE/batch_sim.py | 0 Additions & 0 Deletions|
+| 5/15/2026, 5:56:12 PM | AERIS_ENGINE/emergencyInjector/injection_manager.py | 78 Additions & 7 Deletions|
+| 5/15/2026, 5:56:12 PM | AERIS_ENGINE/main.py | 7 Additions & 0 Deletions|
+| 5/15/2026, 5:56:12 PM | AERIS_ENGINE/batch_sim.py | 0 Additions & 0 Deletions|
