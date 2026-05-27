@@ -31,3 +31,6 @@ This file logs the changes made on 5/27/2026.
 | 5/27/2026, 4:07:54 PM | logs/elhiaudit.json | 10 Additions & 10 Deletions|
 | 5/27/2026, 4:37:55 PM | logs/audit.json | 10 Additions & 10 Deletions|
 | 5/27/2026, 4:37:55 PM | logs/elhiaudit.json | 10 Additions & 10 Deletions|
+| 5/27/2026, 5:07:31 PM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions|
+| 5/27/2026, 5:07:31 PM | build.zip | 0 Additions & 0 Deletions|
+| 5/27/2026, 5:07:31 PM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
