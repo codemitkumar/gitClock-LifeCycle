@@ -1,0 +1,9 @@
+# Daily Changelog
+
+This file logs the changes made on 5/28/2026.
+
+| Time (UTC)             | Files Modified                    | Changes (Addition/Deletion) |
+|------------------------|-----------------------------------|-----------------------------|
+| 5/28/2026, 11:25:48 AM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions |
+| 5/28/2026, 11:25:48 AM | build.zip | 0 Additions & 0 Deletions |
+| 5/28/2026, 11:25:48 AM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions |
