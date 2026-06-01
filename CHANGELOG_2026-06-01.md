@@ -32,3 +32,6 @@ This file logs the changes made on 6/1/2026.
 | 6/1/2026, 12:17:40 PM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions|
 | 6/1/2026, 12:17:40 PM | build.zip | 0 Additions & 0 Deletions|
 | 6/1/2026, 12:17:40 PM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
+| 6/1/2026, 12:25:14 PM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions|
+| 6/1/2026, 12:25:14 PM | build.zip | 0 Additions & 0 Deletions|
+| 6/1/2026, 12:25:14 PM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
