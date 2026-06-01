@@ -7,5 +7,14 @@ This file logs the changes made on 6/1/2026.
 | 6/1/2026, 11:25:14 AM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions |
 | 6/1/2026, 11:25:14 AM | build.zip | 0 Additions & 0 Deletions |
 | 6/1/2026, 11:25:14 AM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions |
-| 6/1/2026, 11:25:21 AM | logs/audit.json | 15 Additions & 15 Deletions|
-| 6/1/2026, 11:25:21 AM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 6/1/2026, 11:28:27 AM | api/swagger/swagger.yaml | 192 Additions & 0 Deletions|
+| 6/1/2026, 11:28:27 AM | config/config.json | 1 Additions & 1 Deletions|
+| 6/1/2026, 11:28:27 AM | final_payload.json | 0 Additions & 1 Deletions|
+| 6/1/2026, 11:28:27 AM | logs/audit.json | 15 Additions & 15 Deletions|
+| 6/1/2026, 11:28:27 AM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
+| 6/1/2026, 11:28:27 AM | output.png | NaN Additions & NaN Deletions|
+| 6/1/2026, 11:28:27 AM | api/controllers/inkHub.controller.js | 0 Additions & 0 Deletions|
+| 6/1/2026, 11:28:27 AM | dal/inkHub.dal.js | 0 Additions & 0 Deletions|
+| 6/1/2026, 11:28:27 AM | managers/inkHub.manager.js | 0 Additions & 0 Deletions|
+| 6/1/2026, 11:28:27 AM | migrations/20260527000000-create-inkhub-table.js | 0 Additions & 0 Deletions|
+| 6/1/2026, 11:28:27 AM | models/InkHub.js | 0 Additions & 0 Deletions|
