@@ -18,3 +18,6 @@ This file logs the changes made on 6/1/2026.
 | 6/1/2026, 11:28:27 AM | managers/inkHub.manager.js | 0 Additions & 0 Deletions|
 | 6/1/2026, 11:28:27 AM | migrations/20260527000000-create-inkhub-table.js | 0 Additions & 0 Deletions|
 | 6/1/2026, 11:28:27 AM | models/InkHub.js | 0 Additions & 0 Deletions|
+| 6/1/2026, 11:55:15 AM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions|
+| 6/1/2026, 11:55:15 AM | build.zip | 0 Additions & 0 Deletions|
+| 6/1/2026, 11:55:15 AM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
