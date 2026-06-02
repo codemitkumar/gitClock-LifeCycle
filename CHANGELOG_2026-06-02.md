@@ -56,3 +56,7 @@ This file logs the changes made on 6/2/2026.
 | 6/2/2026, 1:40:49 PM | managers/inkHub.manager.js | 52 Additions & 1 Deletions|
 | 6/2/2026, 1:40:49 PM | models/Template.js | 0 Additions & 1 Deletions|
 | 6/2/2026, 1:40:49 PM | server.js | 0 Additions & 2 Deletions|
+| 6/2/2026, 3:41:16 PM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions|
+| 6/2/2026, 3:41:16 PM | build.zip | 0 Additions & 0 Deletions|
+| 6/2/2026, 3:41:16 PM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
+| 6/2/2026, 3:41:16 PM | test.json | 0 Additions & 0 Deletions|
