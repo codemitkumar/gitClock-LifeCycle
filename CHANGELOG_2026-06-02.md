@@ -46,3 +46,5 @@ This file logs the changes made on 6/2/2026.
 | 6/2/2026, 1:10:50 PM | managers/inkHub.manager.js | 52 Additions & 1 Deletions|
 | 6/2/2026, 1:10:50 PM | models/Template.js | 0 Additions & 1 Deletions|
 | 6/2/2026, 1:10:50 PM | server.js | 0 Additions & 2 Deletions|
+| 6/2/2026, 1:34:43 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 6/2/2026, 1:34:43 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
