@@ -67,3 +67,5 @@ This file logs the changes made on 6/2/2026.
 | 6/2/2026, 5:44:54 PM | api/controllers/inkHub.controller.js | 3 Additions & 0 Deletions|
 | 6/2/2026, 5:44:54 PM | api/swagger/swagger.yaml | 8 Additions & 0 Deletions|
 | 6/2/2026, 5:44:54 PM | managers/inkHub.manager.js | 33 Additions & 1 Deletions|
+| 6/2/2026, 6:14:54 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 6/2/2026, 6:14:54 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
