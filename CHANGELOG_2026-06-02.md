@@ -28,3 +28,5 @@ This file logs the changes made on 6/2/2026.
 | 6/2/2026, 11:37:16 AM | managers/inkHub.manager.js | 0 Additions & 0 Deletions|
 | 6/2/2026, 11:37:16 AM | migrations/20260527000000-create-inkhub-table.js | 0 Additions & 0 Deletions|
 | 6/2/2026, 11:37:16 AM | models/InkHub.js | 0 Additions & 0 Deletions|
+| 6/2/2026, 12:04:44 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 6/2/2026, 12:04:44 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
