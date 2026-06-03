@@ -48,3 +48,6 @@ This file logs the changes made on 6/3/2026.
 | 6/3/2026, 4:56:19 PM | build.zip | 0 Additions & 0 Deletions|
 | 6/3/2026, 4:56:19 PM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
 | 6/3/2026, 4:56:19 PM | test.json | 0 Additions & 0 Deletions|
+| 6/3/2026, 5:45:39 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 6/3/2026, 5:45:39 PM | logs/elhiaudit.json | 10 Additions & 10 Deletions|
+| 6/3/2026, 5:45:39 PM | sequelize.js | 1 Additions & 1 Deletions|
