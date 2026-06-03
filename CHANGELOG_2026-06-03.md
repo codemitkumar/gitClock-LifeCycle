@@ -60,3 +60,6 @@ This file logs the changes made on 6/3/2026.
 | 6/3/2026, 6:17:41 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 6/3/2026, 6:17:41 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
 | 6/3/2026, 6:17:41 PM | managers/inkHub.manager.js | 33 Additions & 1 Deletions|
+| 6/3/2026, 6:45:28 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 6/3/2026, 6:45:28 PM | logs/elhiaudit.json | 10 Additions & 10 Deletions|
+| 6/3/2026, 6:45:28 PM | sequelize.js | 1 Additions & 1 Deletions|
