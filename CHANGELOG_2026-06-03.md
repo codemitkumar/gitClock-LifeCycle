@@ -34,3 +34,6 @@ This file logs the changes made on 6/3/2026.
 | 6/3/2026, 4:14:11 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 6/3/2026, 4:14:11 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
 | 6/3/2026, 4:14:11 PM | managers/inkHub.manager.js | 33 Additions & 1 Deletions|
+| 6/3/2026, 4:25:59 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 6/3/2026, 4:25:59 PM | logs/elhiaudit.json | 10 Additions & 10 Deletions|
+| 6/3/2026, 4:25:59 PM | sequelize.js | 1 Additions & 1 Deletions|
