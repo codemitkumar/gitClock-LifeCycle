@@ -18,3 +18,6 @@ This file logs the changes made on 6/4/2026.
 | 6/4/2026, 5:23:07 PM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
 | 6/4/2026, 5:32:08 PM | api/controllers/inkHub.controller.js | 3 Additions & 2 Deletions|
 | 6/4/2026, 5:32:08 PM | api/swagger/swagger.yaml | 10 Additions & 3 Deletions|
+| 6/4/2026, 5:53:22 PM | config/config.json | 1 Additions & 1 Deletions|
+| 6/4/2026, 5:53:22 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 6/4/2026, 5:53:22 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
