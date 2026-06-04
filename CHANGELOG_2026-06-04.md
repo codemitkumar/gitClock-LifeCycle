@@ -16,3 +16,5 @@ This file logs the changes made on 6/4/2026.
 | 6/4/2026, 5:23:07 PM | src/components/PermanentDrawer.js | 16 Additions & 2 Deletions|
 | 6/4/2026, 5:23:07 PM | src/components/TruInk/Screens/InhubUtils/ | 0 Additions & 0 Deletions|
 | 6/4/2026, 5:23:07 PM | src/components/TruInk/Screens/InkStoreDashboard.js | 0 Additions & 0 Deletions|
+| 6/4/2026, 5:32:08 PM | api/controllers/inkHub.controller.js | 3 Additions & 2 Deletions|
+| 6/4/2026, 5:32:08 PM | api/swagger/swagger.yaml | 10 Additions & 3 Deletions|
