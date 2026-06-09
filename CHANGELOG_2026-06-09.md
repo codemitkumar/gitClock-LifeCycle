@@ -10,6 +10,5 @@ This file logs the changes made on 6/9/2026.
 | 6/9/2026, 10:39:11 AM | src/components/TruInk/Screens/InkStoreDashboard.js | 43 Additions & 24 Deletions |
 | 6/9/2026, 10:39:43 AM | logs/audit.json | 5 Additions & 5 Deletions|
 | 6/9/2026, 10:39:43 AM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
-| 6/9/2026, 11:09:35 AM | logs/audit.json | 15 Additions & 15 Deletions|
-| 6/9/2026, 11:09:35 AM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
-| 6/9/2026, 11:09:35 AM | sequelize.js | 1 Additions & 1 Deletions|
+| 6/9/2026, 11:09:45 AM | logs/audit.json | 5 Additions & 5 Deletions|
+| 6/9/2026, 11:09:45 AM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
