@@ -16,3 +16,5 @@ This file logs the changes made on 6/18/2026.
 | 6/18/2026, 11:40:40 AM | config/default.json | 1 Additions & 1 Deletions|
 | 6/18/2026, 11:40:40 AM | logs/audit.json | 10 Additions & 10 Deletions|
 | 6/18/2026, 11:40:40 AM | managers/addon.manager.js | 22 Additions & 0 Deletions|
+| 6/18/2026, 12:09:56 PM | helpers/LocationIdFromIpHelper.js | 1 Additions & 1 Deletions|
+| 6/18/2026, 12:09:56 PM | logs/audit.json | 15 Additions & 15 Deletions|
