@@ -11,3 +11,5 @@ This file logs the changes made on 6/20/2026.
 | 6/20/2026, 1:09:14 PM | api/swagger/swagger.yaml | 27 Additions & 0 Deletions|
 | 6/20/2026, 1:39:14 PM | helpers/OutLookUser.js | 1 Additions & 0 Deletions|
 | 6/20/2026, 1:39:14 PM | helpers/OutlookHelper.js | 1 Additions & 1 Deletions|
+| 6/20/2026, 1:50:36 PM | helpers/OutLookUser.js | 23 Additions & 18 Deletions|
+| 6/20/2026, 1:50:36 PM | helpers/OutlookHelper.js | 1 Additions & 1 Deletions|
