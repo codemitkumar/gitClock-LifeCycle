@@ -13,3 +13,5 @@ This file logs the changes made on 6/20/2026.
 | 6/20/2026, 1:39:14 PM | helpers/OutlookHelper.js | 1 Additions & 1 Deletions|
 | 6/20/2026, 1:50:36 PM | helpers/OutLookUser.js | 23 Additions & 18 Deletions|
 | 6/20/2026, 1:50:36 PM | helpers/OutlookHelper.js | 1 Additions & 1 Deletions|
+| 6/20/2026, 2:09:14 PM | helpers/OutLookUser.js | 25 Additions & 14 Deletions|
+| 6/20/2026, 2:09:14 PM | services/emms.external.service.js | 1 Additions & 0 Deletions|
