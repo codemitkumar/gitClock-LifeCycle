@@ -8,6 +8,4 @@ This file logs the changes made on 7/2/2026.
 | 7/2/2026, 12:20:41 PM | config/default.json | 2 Additions & 1 Deletions |
 | 7/2/2026, 12:20:41 PM | server.js | 42 Additions & 10 Deletions |
 | 7/2/2026, 12:21:29 PM | .env | 1 Additions & 1 Deletions|
-| 7/2/2026, 12:50:38 PM | api/controllers/auth.controller.js | 35 Additions & 0 Deletions|
-| 7/2/2026, 12:50:38 PM | config/default.json | 2 Additions & 1 Deletions|
-| 7/2/2026, 12:50:38 PM | server.js | 42 Additions & 10 Deletions|
+| 7/2/2026, 12:51:28 PM | .env | 1 Additions & 1 Deletions|
