@@ -8,3 +8,6 @@ This file logs the changes made on 7/3/2026.
 | 7/3/2026, 12:01:04 PM | config.zip | 0 Additions & 0 Deletions |
 | 7/3/2026, 12:01:04 PM | logs.zip | 0 Additions & 0 Deletions |
 | 7/3/2026, 12:01:04 PM | migrations.zip | 0 Additions & 0 Deletions |
+| 7/3/2026, 12:31:05 PM | config/config.json | 1 Additions & 1 Deletions|
+| 7/3/2026, 12:31:05 PM | migrations/20260203121836-user-tenant-sitetable.js | 2 Additions & 2 Deletions|
+| 7/3/2026, 12:31:05 PM | migrations.zip | 0 Additions & 0 Deletions|
