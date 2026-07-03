@@ -47,3 +47,6 @@ This file logs the changes made on 7/3/2026.
 | 7/3/2026, 5:24:36 PM | api/controllers/auth.controller.js | 1 Additions & 1 Deletions|
 | 7/3/2026, 5:24:36 PM | logs/audit.json | 5 Additions & 5 Deletions|
 | 7/3/2026, 5:24:36 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
+| 7/3/2026, 5:54:34 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 7/3/2026, 5:54:34 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
+| 7/3/2026, 5:54:34 PM | server.js | 1 Additions & 1 Deletions|
