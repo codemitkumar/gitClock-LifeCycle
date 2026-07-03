@@ -14,3 +14,7 @@ This file logs the changes made on 7/3/2026.
 | 7/3/2026, 1:01:04 PM | config/config.json | 1 Additions & 1 Deletions|
 | 7/3/2026, 1:01:04 PM | migrations/20260203121836-user-tenant-sitetable.js | 2 Additions & 2 Deletions|
 | 7/3/2026, 1:01:04 PM | migrations.zip | 0 Additions & 0 Deletions|
+| 7/3/2026, 1:51:01 PM | src/Helper/OutLookHelper.js | 4 Additions & 1 Deletions|
+| 7/3/2026, 1:51:01 PM | src/OutlookUI/OutLookScreenAssignRoom.jsx | 40 Additions & 29 Deletions|
+| 7/3/2026, 1:51:01 PM | src/OutlookUI/SingleAvailabilityCard.jsx | 35 Additions & 26 Deletions|
+| 7/3/2026, 1:51:01 PM | build.zip | 0 Additions & 0 Deletions|
