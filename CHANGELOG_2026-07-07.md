@@ -19,3 +19,4 @@ This file logs the changes made on 7/7/2026.
 | 7/7/2026, 11:35:39 AM | server.js | 2 Additions & 2 Deletions|
 | 7/7/2026, 11:35:39 AM | services/auth.service.js | 1 Additions & 1 Deletions|
 | 7/7/2026, 11:35:39 AM | services/emms.service.js | 2 Additions & 2 Deletions|
+| 7/7/2026, 2:03:24 PM | dal.js | 0 Additions & 1 Deletions|
