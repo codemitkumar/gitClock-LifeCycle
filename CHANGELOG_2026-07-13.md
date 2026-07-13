@@ -33,3 +33,6 @@ This file logs the changes made on 7/13/2026.
 | 7/13/2026, 1:49:21 PM | managers/emm.manager.js | 3 Additions & 2 Deletions|
 | 7/13/2026, 1:49:21 PM | managers/screenusers.manager.js | 3 Additions & 2 Deletions|
 | 7/13/2026, 1:49:21 PM | services/emm.service.js | 2 Additions & 2 Deletions|
+| 7/13/2026, 1:57:42 PM | logs/audit.json | 10 Additions & 10 Deletions|
+| 7/13/2026, 1:57:42 PM | logs/elhiaudit.json | 10 Additions & 10 Deletions|
+| 7/13/2026, 1:57:42 PM | api.zip | 0 Additions & 0 Deletions|
