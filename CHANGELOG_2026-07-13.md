@@ -45,3 +45,6 @@ This file logs the changes made on 7/13/2026.
 | 7/13/2026, 2:19:20 PM | managers/emm.manager.js | 3 Additions & 2 Deletions|
 | 7/13/2026, 2:19:20 PM | managers/screenusers.manager.js | 3 Additions & 2 Deletions|
 | 7/13/2026, 2:19:20 PM | services/emm.service.js | 2 Additions & 2 Deletions|
+| 7/13/2026, 2:27:17 PM | .env | 1 Additions & 1 Deletions|
+| 7/13/2026, 2:27:17 PM | logs/audit.json | 5 Additions & 5 Deletions|
+| 7/13/2026, 2:27:17 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
