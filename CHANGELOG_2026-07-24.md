@@ -5,10 +5,22 @@ This file logs the changes made on 7/24/2026.
 | Time (UTC)             | Files Modified                    | Changes (Addition/Deletion) |
 |------------------------|-----------------------------------|-----------------------------|
 | 7/24/2026, 10:36:12 AM | src/components/TruInk/Components/AddTruInkEMMSModal.jsx | 34 Additions & 31 Deletions |
-| 7/24/2026, 10:45:02 AM | api/controllers/truInkEmms.controller.js | 4 Additions & 4 Deletions|
-| 7/24/2026, 10:45:02 AM | api/swagger/swagger.yaml | 6 Additions & 2 Deletions|
-| 7/24/2026, 10:45:02 AM | dal/truInkEMMS.dal.js | 21 Additions & 3 Deletions|
-| 7/24/2026, 10:45:02 AM | logs/audit.json | 15 Additions & 25 Deletions|
-| 7/24/2026, 10:45:02 AM | logs/elhiaudit.json | 15 Additions & 25 Deletions|
-| 7/24/2026, 10:45:02 AM | managers/truInkEMMS.manager.js | 11 Additions & 6 Deletions|
-| 7/24/2026, 10:45:02 AM | server.js | 0 Additions & 1 Deletions|
+| 7/24/2026, 10:45:35 AM | .gitignore | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | dal.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | helpers/ExchangeUtils.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | helpers/meetingDataHelper.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | helpers/meetingQueueWorker.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | helpers/truInkEmms.helper.js | 0 Additions & 0 Deletions|
+| 7/24/2026, 10:45:35 AM | logs/audit.json | 15 Additions & 25 Deletions|
+| 7/24/2026, 10:45:35 AM | managers/globalconfigurations.manager.js | 8 Additions & 1 Deletions|
+| 7/24/2026, 10:45:35 AM | managers/meeting.manager.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | models/GlobalConfigurations.js | 0 Additions & 2 Deletions|
+| 7/24/2026, 10:45:35 AM | package-lock.json | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | package.json | 0 Additions & 0 Deletions|
+| 7/24/2026, 10:45:35 AM | redis.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | server.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | services/calendar/cron_exchange.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | test/unit/dalScreenUser.unittest.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | test/unit/meetingDataHelper.unittest.js | undefined Additions & undefined Deletions|
+| 7/24/2026, 10:45:35 AM | test/unit/truInkEmmsHelper.unittest.js | 0 Additions & 0 Deletions|
+| 7/24/2026, 10:45:35 AM | helpers/truInkConfigCache.js | 0 Additions & 0 Deletions|
