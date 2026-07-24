@@ -99,3 +99,5 @@ This file logs the changes made on 7/24/2026.
 | 7/24/2026, 12:29:04 PM | logs/audit.json | 15 Additions & 15 Deletions|
 | 7/24/2026, 12:29:04 PM | logs/elhiaudit.json | 15 Additions & 15 Deletions|
 | 7/24/2026, 12:29:04 PM | api.zip | 0 Additions & 0 Deletions|
+| 7/24/2026, 12:36:11 PM | src/components/EditScreenUserForm.js | 91 Additions & 0 Deletions|
+| 7/24/2026, 12:36:11 PM | src/components/TruInk/Components/AddTruInkEMMSModal.jsx | 34 Additions & 31 Deletions|
