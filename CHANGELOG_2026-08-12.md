@@ -205,3 +205,5 @@ This file logs the changes made on 8/12/2026.
 | 8/12/2026, 5:15:29 PM | src/Components/Helper/Hooks/ | 0 Additions & 0 Deletions|
 | 8/12/2026, 5:15:29 PM | src/Components/Home/EnhancedBookingModal/ | 0 Additions & 0 Deletions|
 | 8/12/2026, 5:15:29 PM | tailwind.config.js | 0 Additions & 0 Deletions|
+| 8/12/2026, 5:45:26 PM | package-lock.json | 0 Additions & 50 Deletions|
+| 8/12/2026, 5:45:26 PM | yarn.lock | 24 Additions & 45 Deletions|
