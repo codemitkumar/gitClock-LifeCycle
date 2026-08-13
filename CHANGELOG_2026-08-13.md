@@ -20,3 +20,14 @@ This file logs the changes made on 8/13/2026.
 | 8/13/2026, 12:23:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImageRed/CardBodyNoImageRed.js | 2 Additions & 2 Deletions |
 | 8/13/2026, 12:23:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyRed/CardBodyRed.js | 2 Additions & 2 Deletions |
 | 8/13/2026, 1:23:21 PM | src/Components/NavigatorScreen/Components/LeftSide/LeftBottom/LeftBottomTime.js | 1 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/LeftSide/LeftBottom/LeftBottomTime.js | 1 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/LeftSide/LeftTop/LeftAddress.js | 4 Additions & 0 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBody/CardBody.js | 3 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImage/CardBodyNoImage.js | 3 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyNoImageRed/CardBodyNoImageRed.js | 2 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/CardBodyRed/CardBodyRed.js | 3 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleMRCard.js | 8 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleNoImageCard.js | 8 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleNoImageCardRed.js | 11 Additions & 3 Deletions|
+| 8/13/2026, 1:53:21 PM | src/Components/NavigatorScreen/Components/SingleMRCard/SingleRedCard.js | 8 Additions & 1 Deletions|
+| 8/13/2026, 1:53:21 PM | src/HelperFunctions/CustomStyleHelpers.js | 1 Additions & 1 Deletions|
