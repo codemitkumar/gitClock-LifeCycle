@@ -18,3 +18,4 @@ This file logs the changes made on 8/18/2026.
 | 8/18/2026, 4:34:47 PM | src/index.css | 9 Additions & 0 Deletions|
 | 8/18/2026, 5:04:44 PM | src/index.css | 9 Additions & 0 Deletions|
 | 8/18/2026, 5:35:09 PM | src/index.css | 9 Additions & 0 Deletions|
+| 8/18/2026, 6:36:30 PM | helpers/truInkEmms.helper.js | 39 Additions & 9 Deletions|
