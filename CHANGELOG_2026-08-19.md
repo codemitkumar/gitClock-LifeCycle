@@ -12,3 +12,7 @@ This file logs the changes made on 8/19/2026.
 | 8/19/2026, 6:03:42 PM | logs/audit.json | 5 Additions & 15 Deletions|
 | 8/19/2026, 6:03:42 PM | redis.js | 14 Additions & 14 Deletions|
 | 8/19/2026, 6:03:42 PM | scripts/ | 0 Additions & 0 Deletions|
+| 8/19/2026, 6:33:41 PM | helpers/truInkEmms.helper.js | 6 Additions & 2 Deletions|
+| 8/19/2026, 6:33:41 PM | logs/audit.json | 5 Additions & 15 Deletions|
+| 8/19/2026, 6:33:41 PM | redis.js | 14 Additions & 14 Deletions|
+| 8/19/2026, 6:33:41 PM | scripts/ | 0 Additions & 0 Deletions|
