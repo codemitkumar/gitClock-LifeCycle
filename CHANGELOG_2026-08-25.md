@@ -17,3 +17,4 @@ This file logs the changes made on 8/25/2026.
 | 8/25/2026, 12:48:20 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
 | 8/25/2026, 1:56:10 PM | package-lock.json | 1 Additions & 0 Deletions|
 | 8/25/2026, 1:56:10 PM | src/components/contentAi/KioskStudioDashboard.js | 5 Additions & 5 Deletions|
+| 8/25/2026, 2:33:29 PM | config/config.json | 3 Additions & 3 Deletions|
