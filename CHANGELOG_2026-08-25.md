@@ -22,6 +22,4 @@ This file logs the changes made on 8/25/2026.
 | 8/25/2026, 2:33:35 PM | logs/audit.json | 4 Additions & 24 Deletions|
 | 8/25/2026, 2:33:35 PM | logs/meetingOps-audit.json | 5 Additions & 0 Deletions|
 | 8/25/2026, 2:33:35 PM | server.js | 102 Additions & 100 Deletions|
-| 8/25/2026, 3:06:42 PM | config/config.json | 9 Additions & 10 Deletions|
-| 8/25/2026, 3:06:42 PM | logs/audit.json | 5 Additions & 5 Deletions|
-| 8/25/2026, 3:06:42 PM | logs/elhiaudit.json | 5 Additions & 5 Deletions|
+| 8/25/2026, 3:06:45 PM | config/config.json | 3 Additions & 3 Deletions|
