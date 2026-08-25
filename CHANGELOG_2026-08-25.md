@@ -26,3 +26,5 @@ This file logs the changes made on 8/25/2026.
 | 8/25/2026, 3:36:36 PM | config/config.json | 3 Additions & 3 Deletions|
 | 8/25/2026, 4:06:37 PM | config/config.json | 3 Additions & 3 Deletions|
 | 8/25/2026, 4:06:37 PM | services/emms.service.js | 14 Additions & 14 Deletions|
+| 8/25/2026, 7:55:31 PM | config/config.json | 3 Additions & 3 Deletions|
+| 8/25/2026, 7:55:31 PM | services/emms.service.js | 14 Additions & 14 Deletions|
