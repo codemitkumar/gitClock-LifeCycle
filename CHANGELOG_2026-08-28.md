@@ -13,3 +13,6 @@ This file logs the changes made on 8/28/2026.
 | 8/28/2026, 10:19:07 PM | AERIS_ENGINE/data/ingestion/notam_reader.py | 0 Additions & 0 Deletions |
 | 8/28/2026, 10:19:07 PM | AERIS_ENGINE/decision/diversion_selector.py | 0 Additions & 0 Deletions |
 | 8/28/2026, 10:19:07 PM | AERIS_ENGINE/emergencyInjector/notam/ | 0 Additions & 0 Deletions |
+| 8/28/2026, 10:49:08 PM | AERIS_ENGINE/decision/decision_engine.py | 8 Additions & 6 Deletions|
+| 8/28/2026, 10:49:08 PM | AERIS_ENGINE/decision/diversion_selector.py | 25 Additions & 10 Deletions|
+| 8/28/2026, 10:49:08 PM | README.md | 78 Additions & 14 Deletions|
