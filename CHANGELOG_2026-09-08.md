@@ -27,3 +27,9 @@ This file logs the changes made on 9/8/2026.
 | 9/8/2026, 12:46:06 PM | app/src/main/java/tech/elhi/trurooms/contentai/client/utils/helpers/BundleUpdateManager.java | 0 Additions & 0 Deletions|
 | 9/8/2026, 12:46:06 PM | app/src/main/java/tech/elhi/trurooms/contentai/client/utils/helpers/ZipExtractor.java | 0 Additions & 0 Deletions|
 | 9/8/2026, 12:46:06 PM | app/src/main/res/layout/activity_web_shell.xml | 0 Additions & 0 Deletions|
+| 9/8/2026, 12:58:29 PM | package.json | 1 Additions & 0 Deletions|
+| 9/8/2026, 12:58:29 PM | src/Components/Home/Components/Login/useProvisioningSession.js | 1 Additions & 0 Deletions|
+| 9/8/2026, 12:58:29 PM | "src/Components/Manager Signage/Content.jsx" | undefined Additions & undefined Deletions|
+| 9/8/2026, 12:58:29 PM | "src/Components/Manager Signage/ContentAI.jsx" | undefined Additions & undefined Deletions|
+| 9/8/2026, 12:58:29 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
+| 9/8/2026, 12:58:29 PM | src/HelperFunctions/fullyBridge.js | 0 Additions & 0 Deletions|
