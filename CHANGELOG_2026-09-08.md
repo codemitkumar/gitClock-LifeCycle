@@ -15,3 +15,4 @@ This file logs the changes made on 9/8/2026.
 | 9/8/2026, 12:16:06 PM | app/src/main/java/tech/elhi/trurooms/contentai/client/utils/helpers/BundleUpdateManager.java | 0 Additions & 0 Deletions |
 | 9/8/2026, 12:16:06 PM | app/src/main/java/tech/elhi/trurooms/contentai/client/utils/helpers/ZipExtractor.java | 0 Additions & 0 Deletions |
 | 9/8/2026, 12:16:06 PM | app/src/main/res/layout/activity_web_shell.xml | 0 Additions & 0 Deletions |
+| 9/8/2026, 12:28:29 PM | package.json | 1 Additions & 0 Deletions|
