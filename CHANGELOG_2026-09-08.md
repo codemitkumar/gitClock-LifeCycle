@@ -101,3 +101,7 @@ This file logs the changes made on 9/8/2026.
 | 9/8/2026, 2:58:29 PM | "src/Components/Manager Signage/ContentAI.jsx" | undefined Additions & undefined Deletions|
 | 9/8/2026, 2:58:29 PM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
 | 9/8/2026, 2:58:29 PM | src/HelperFunctions/fullyBridge.js | 0 Additions & 0 Deletions|
+| 9/8/2026, 3:08:50 PM | AERIS_ENGINE/.gitignore | 3 Additions & 0 Deletions|
+| 9/8/2026, 3:08:50 PM | AERIS_UI/README.md | 4 Additions & 0 Deletions|
+| 9/8/2026, 3:08:50 PM | README.md | 9 Additions & 0 Deletions|
+| 9/8/2026, 3:08:50 PM | benchmarks/ | 0 Additions & 0 Deletions|
