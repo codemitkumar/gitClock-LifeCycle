@@ -44,3 +44,4 @@ This file logs the changes made on 9/9/2026.
 | 9/9/2026, 11:48:54 AM | config/config.json | 1 Additions & 1 Deletions|
 | 9/9/2026, 11:48:54 AM | logs/audit.json | 5 Additions & 5 Deletions|
 | 9/9/2026, 11:48:54 AM | logs/meetingOps-audit.json | 5 Additions & 5 Deletions|
+| 9/9/2026, 3:52:17 PM | src/Screens/KioskView.js | 1 Additions & 0 Deletions|
