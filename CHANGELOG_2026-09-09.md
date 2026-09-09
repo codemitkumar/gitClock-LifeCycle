@@ -36,3 +36,8 @@ This file logs the changes made on 9/9/2026.
 | 9/9/2026, 10:29:39 AM | "src/Components/Manager Signage/ContentAI.jsx" | undefined Additions & undefined Deletions|
 | 9/9/2026, 10:29:39 AM | "src/Components/Manager Signage/ELMBookingOngoingMeeting.jsx" | undefined Additions & undefined Deletions|
 | 9/9/2026, 10:29:39 AM | src/HelperFunctions/fullyBridge.js | 0 Additions & 0 Deletions|
+| 9/9/2026, 11:05:02 AM | src/components/KioskEditor/PreviewUtils/PreviewUtils.js | 1 Additions & 0 Deletions|
+| 9/9/2026, 11:05:02 AM | src/components/KioskEditor/Utils/DataSourcePanel.js | 10 Additions & 0 Deletions|
+| 9/9/2026, 11:05:02 AM | src/components/KioskEditor/Utils/Makers.js | 1 Additions & 0 Deletions|
+| 9/9/2026, 11:05:02 AM | src/components/KioskEditor/Utils/ParamRowUI.js | 19 Additions & 7 Deletions|
+| 9/9/2026, 11:05:02 AM | src/components/KioskEditor/Utils/leafHelpers.js | 1 Additions & 0 Deletions|
